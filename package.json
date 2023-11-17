@@ -3,7 +3,7 @@
   "displayName": "Learnplasmo",
   "version": "0.0.1",
   "description": "A basic Plasmo extension.",
-  "author": "shabin@gmail.com",
+  "author": "helloshabink@gmail.com",
   "scripts": {
     "dev": "plasmo dev",
     "build": "plasmo build",
